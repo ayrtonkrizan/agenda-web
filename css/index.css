@@ -148,3 +148,19 @@ html, body {
   padding-left: 10px;
   padding-right: 10px;
 }
+
+#add-button{
+  width: 75px;
+  height: 75px;
+  font-size: 2em;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  border-radius: 50%;
+  border: 0;
+  background-color: #325C46;
+  color: #FFF;
+}
+.hide {
+  display: none;
+}
