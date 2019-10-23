@@ -21,6 +21,7 @@ html, body {
   color: #325C46;
   box-shadow: rgba(255,255,255,0.25);
 }
+
 .input-field{
   padding: 10px;
   color: #325C46;
@@ -30,6 +31,10 @@ html, body {
   max-width: 724px;
   width: 80%;
   margin:10px
+}
+
+.input-field:disabled{
+  background-color: #cccccc;
 }
 
 .contact-admin {
