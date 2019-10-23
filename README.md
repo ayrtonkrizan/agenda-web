@@ -19,14 +19,14 @@ Projeto publicado em https://ayrtonkrizan.github.io/agenda-web/
  
  
 ## Exemplo de Telas
-Lista de contatos:
+#### Lista de contatos:
 ![](https://raw.githubusercontent.com/ayrtonkrizan/agenda-web/master/docimages/Screen%20Shot%202019-10-23%20at%2015.43.32.png)
 
-Lista filtrada:
+#### Lista filtrada:
 ![](https://raw.githubusercontent.com/ayrtonkrizan/agenda-web/master/docimages/Screen%20Shot%202019-10-23%20at%2015.43.41.png)
 
-Opções no card:
+#### Opções no card:
 ![](https://github.com/ayrtonkrizan/agenda-web/blob/master/docimages/Screen%20Shot%202019-10-23%20at%2015.44.53.png)
 
-Tela de cadastro:
+#### Tela de cadastro:
 ![](https://raw.githubusercontent.com/ayrtonkrizan/agenda-web/master/docimages/Screen%20Shot%202019-10-23%20at%2015.42.39.png)
