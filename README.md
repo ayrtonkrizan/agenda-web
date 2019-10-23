@@ -17,6 +17,9 @@ Projeto publicado em https://ayrtonkrizan.github.io/agenda-web/
  - Qualidade do código
  - Evolução do desenvolvimento (commits no github)
  
+ ## Referência
+ - github - http://pauloluan.github.io/blog/blog/2013/05/16/aprenda-git-em-5-minutos/
+ - localStorage - https://tableless.com.br/guia-f%C3%A1cil-sobre-usar-localstorage-com-javascript/
  
 ## Exemplo de Telas
 #### Lista de contatos:
